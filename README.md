@@ -1,2 +1,4 @@
 # latest-template
-A structure for building simple websites with Go. 
+An easy to pull resource for building simple websites with Go. 
+
+<h3>Using Tailwind CSS</h3>

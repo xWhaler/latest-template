@@ -4,7 +4,7 @@
 
 -- After installing MySQL, you can run "source /path/to/create-user-db.sql;" in the MySQL terminal.
 
--- Example for terminal: Sudo pacman -S mysql; mysql -u root -p; CREATE DATABASE user_db; USE user_db; source /path/to/create-user-d4b.sql;
+-- Example for terminal: Sudo pacman -S mysql; mysql -u root -p; CREATE DATABASE user_db; USE user_db;
 
 CREATE DATABASE user_db;
 
